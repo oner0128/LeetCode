@@ -7,5 +7,8 @@ public class Test {
         System.out.println(Integer.toBinaryString(Integer.MAX_VALUE));
         System.out.println(Integer.toBinaryString(Integer.MIN_VALUE));
         System.out.println(Integer.toBinaryString(Integer.MAX_VALUE + 2));
+        int[][] nums=new int[2][4];
+        System.out.println(nums.length);
+        System.out.println(nums[0].length);
     }
 }
