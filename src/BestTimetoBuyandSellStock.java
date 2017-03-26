@@ -29,7 +29,7 @@ public class BestTimetoBuyandSellStock {
         }
         return profitMax;
     }
-
+   //The logic to solve this problem is same as "max subarray problem" using Kadane's Algorithm
     public static int maxProfit2(int[] prices) {
         int maxCur = 0, maxSoFar = 0;
         for (int i = 1; i < prices.length; i++) {
