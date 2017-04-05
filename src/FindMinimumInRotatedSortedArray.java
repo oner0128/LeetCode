@@ -45,7 +45,7 @@ public class FindMinimumInRotatedSortedArray {
     }
 
     public static void main(String[] args) {
-        System.out.println(findMin(new int[]{5, 6, 7, 8, 1, 2, 3, 4}));
+        System.out.println(findMin2(new int[]{5, 6, 7, 8, 1, 2, 3, 4}));
         System.out.println(findMin2(new int[]{2, 3, 4, 5, 6, 7, 8, 1, 2}));
         System.out.println(findMin(new int[]{8, 0, 2, 3, 4, 5, 6, 7}));
         System.out.println(findMin(new int[]{0, 2, 3, 4, 5, 6, 7}));
