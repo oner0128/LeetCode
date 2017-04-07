@@ -2,8 +2,9 @@ import java.util.Arrays;
 
 /**
  * Created by rrr on 2017/2/14.
+ * 26. Remove Duplicates from Sorted Array
  */
-public class RemoveDuplicates {
+public class RemoveDuplicatesfromSortedArray {
     public static int removeDuplicates(int[] nums) {
         if (nums.length < 1) return 0;
         int newLength = 1;

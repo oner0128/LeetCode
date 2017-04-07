@@ -16,7 +16,7 @@ import java.util.List;
  Output:
  [[1,2,6], [1,3,5], [2,3,4]]
  */
-public class CombinationSum3 {
+public class CombinationSumIII {
     public static List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> results=new ArrayList<>();
         List<Integer> cur=new ArrayList<>();
