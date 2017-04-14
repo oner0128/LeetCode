@@ -8,8 +8,8 @@ import java.util.*;
  */
 public class TopKFrequent {
     public static List<Integer> topKFrequent(int[] nums, int k) {
-        List<Integer> results = new ArrayList<>();
         Map<Integer, Integer> freqMap = new HashMap<>();
+        List<Integer> results = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
             if (!freqMap.containsKey(nums[i]))
                 freqMap.put(nums[i], 1);
@@ -43,7 +43,6 @@ public class TopKFrequent {
         }
         System.out.println(freqMap);
         List[] buckets = new List[freqMax+1];
-        Set<Integer> integerSet = freqMap.keySet();
         for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
             if (buckets[entry.getValue()] == null)
                 buckets[entry.getValue()] = new LinkedList();

@@ -9,7 +9,7 @@ import java.util.Map;
  * 正确应为abc
  * 正确：利用HashMap的contain方法快速查找是否出现重复字符
  */
-// 自己独立完成但是时间复杂度无法通过。原因，只利用了HashMap中的Key没有有效利用
+// 自己独立完成但是时间复杂度无法通过。原因，只利用了HashMap中的Key没有有效利用value
 // 自己思路：head/end两点当遇到重复字符时计算head/end差值，若大于已有length则更新
 //正确思路：head/end两点在没有重复字符前一直不断计算head/end差值并更新最大length，当下一字符已存在于之前子字符串时将head的值置为子字符串序号的下一位。
 public class LengthOfLongestSubstring {

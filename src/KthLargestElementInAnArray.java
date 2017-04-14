@@ -11,26 +11,39 @@ import java.util.Arrays;
  */
 public class KthLargestElementInAnArray {
     public static void findKthLargest(int[] nums,int k) {
-        int j=0;
-        for (int i = nums.length -1; i >= 0; i--) {
-            j=i;
-            while (j >= 0 && nums[j / 2] < nums[j]) {
-                int tmp = nums[j];
-                nums[j] = nums[j / 2];
-                nums[j / 2] = tmp;
-                j=j/2;
+        int index=0;int tmp;
+        for (int i = (nums.length-1)/2-1; i >= 0; i--) {
+            index=i;
+            while (index <= (nums.length-1)/2-1 && (nums[index * 2+1] > nums[index]||nums[index * 2+2] > nums[index])) {
+                int child=nums[index * 2+1] > nums[index * 2+2]?index * 2+1:index * 2+2;
+                tmp = nums[child];
+                nums[child] = nums[index];
+                nums[index] = tmp;
+                index=child;
             }
         }
-        int index=0;
-        for (int i = 1; i < nums.length&&index<k; ) {
-            if (nums[i]>=nums[])
+        System.out.println(Arrays.toString(nums));
+        int len=nums.length-1;
+        while (k>1){
+            index=0;
+            tmp = nums[len];
+            nums[len] = nums[index];
+            nums[index] = tmp;
+            len--;
+            while (index <= len/2-1 && (nums[index * 2+1] > nums[index]||nums[index * 2+2] > nums[index])) {
+                int child=nums[index * 2+1] > nums[index * 2+2]?index * 2+1:index * 2+2;
+                tmp = nums[child];
+                nums[child] = nums[index];
+                nums[index] = tmp;
+                index=child;
+            }k--;
         }
     }
 
     public static void main(String[] args) {
         int[] nums = {3, 2, 1, 5, 6,6, 4};
         System.out.println(Arrays.toString(nums));
-        findKthLargest(nums,2);
+        findKthLargest(nums,3);
         System.out.println(Arrays.toString(nums));
     }
 }
