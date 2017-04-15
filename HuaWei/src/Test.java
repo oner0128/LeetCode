@@ -6,5 +6,7 @@ public class Test {
         char c='9';
         System.out.println((int) c);
         System.out.println(9^5);
+        String s="asdsadsad";
+        System.out.println(s.indexOf(97,2));
     }
 }
