@@ -1,7 +1,5 @@
 package easy;
 
-import javax.sound.midi.Soundbank;
-
 /**
  * Created by rrr on 2017/4/18.
  * 58. Length of Last Word

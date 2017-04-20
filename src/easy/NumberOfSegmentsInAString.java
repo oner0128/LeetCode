@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.Arrays;
-
 /**
  * Created by rrr on 2017/4/19.
  * 434. Number of Segments in a String
