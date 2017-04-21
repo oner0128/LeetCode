@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by rrr on 2017/2/14.
+ * 	27 Remove Element
  */
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {

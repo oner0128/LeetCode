@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.*;
-
 /**
  * Created by rrr on 2017/4/10.
  * 242. Valid Anagram
