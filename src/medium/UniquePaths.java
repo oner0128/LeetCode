@@ -11,6 +11,7 @@ package medium;
  * 1 3 6 10
  * 1 4 10 20
  *map[i][j] = map[i-1][j]+map[i][j-1];
+ * 空间复杂度可以压缩到O(min(m,n))
  *
  * 方法二不使用DP方法，用组合方式求解
  * 其实可以不使用动态规划求解。
@@ -20,7 +21,7 @@ package medium;
  */
 public class UniquePaths {
     public static int uniquePaths(int m, int n) {
-        Integer[][] map = new Integer[m][n];
+        int[][] map = new int[m][n];
         for(int i = 0; i<m;i++){
             map[i][0] = 1;
         }
