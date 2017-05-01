@@ -22,13 +22,24 @@ public class WordPattern {
     public boolean wordPattern(String pattern, String str) {
         char[] patterns = pattern.toCharArray();
         String[] s = str.split(" ");
-        if (patterns.length!=s.length||pattern.length() == 0 || str.length() == 0)return false;
+        if (patterns.length != s.length || pattern.length() == 0 || str.length() == 0) return false;
         Map<Character, String> map = new HashMap<>();
         for (int i = 0; i < patterns.length; i++) {
-            if (map.containsKey(patterns[i])||map.containsValue(s[i])) {
-                if (!map.get(patterns[i]).equals(s[i])) return false;
-            } else map.put(patterns[i], s[i]);
+            if (map.containsKey(patterns[i])) {if(!map.get(patterns[i]).equals(s[i]))return false;}//若存在pattern[i]且对应的str与str[i]不相等,则不匹配
+            else if (map.containsValue(s[i])) return false;//若不存在pattern[i]但是存在str[i]说明pattern[0..n-1]的某个存在的str为str[i],不匹配
+            else map.put(patterns[i], s[i]);
         }
+        return true;
+    }
+    //LeetCode解法
+    public boolean wordPattern2(String pattern, String str) {
+        String[] words = str.split(" ");
+        if (words.length != pattern.length())
+            return false;
+        Map index = new HashMap();
+        for (Integer i=0; i<words.length; ++i)
+            if (index.put(pattern.charAt(i), i) != index.put(words[i], i))
+                return false;
         return true;
     }
 }
