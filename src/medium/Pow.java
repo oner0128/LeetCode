@@ -19,11 +19,16 @@ public class Pow {
         }
         return n>=0?x:1/x;
     }
+    //23ms
     public double myPow2(double x, int n) {
-        double delta=0.00001;
-        double ans=x;
-        int absN=Math.abs(n);
-        while (absN-->0&&Math.abs(ans-x)>delta)ans*=x;
+        if (n==0||x==1||x==0)return x==0?0:1;
+        double ans=1;
+        long m=n>0?n:-(long)n;
+        while (m!=0){
+            if (m%2==1)ans*=x;
+            x*=x;
+            m>>=1;
+        }
         return n>=0?ans:1/ans;
     }
 }
