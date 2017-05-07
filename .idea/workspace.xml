@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ade671-f944-4b31-9695-3ccf9a68da63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Clone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Convert.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindGreatestSumOfSubArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindNumsAppearOnce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/GetLeastNumbers_Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/GetNumberOfK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/MoreThanHalfNum_Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Dagger2Offer/LeftRotateString.class" afterPath="$PROJECT_DIR$/out/production/Dagger2Offer/LeftRotateString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/KthLargestElementInAnArray.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/medium/KthLargestElementInAnArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/EntryNodeOfLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindContinuousSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindFirstCommonNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FirstAppearingOnce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FirstNotRepeatingChar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/GetUglyNumber_Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/InversePairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/NumberOf1Between1AndN_Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Permutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/PrintMinNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/ReverseSentence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/StrToInt.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Dagger2Offer/TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/medium/LongestPalindrome.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Dagger2Offer/src/TwoSum.java" afterPath="$PROJECT_DIR$/Dagger2Offer/src/FindNumbersWithSum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,74 +33,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/MergeListNode.java">
+      <file leaf-file-name="FindNumbersWithSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindNumbersWithSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetLeastNumbers_Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetLeastNumbers_Solution.java">
+      <file leaf-file-name="MaxConsecutiveOnes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/MaxConsecutiveOnes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOf1Between1AndN_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/NumberOf1Between1AndN_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetUglyNumber_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetUglyNumber_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstNotRepeatingChar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FirstNotRepeatingChar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <caret line="32" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
               <folding>
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Convert.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Convert.java">
+      <file leaf-file-name="FirstAppearingOnce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FirstAppearingOnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindNumsAppearOnce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindNumsAppearOnce.java">
+      <file leaf-file-name="StrToInt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/StrToInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetNumberOfK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetNumberOfK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindGreatestSumOfSubArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindGreatestSumOfSubArray.java">
+      <file leaf-file-name="EntryNodeOfLoop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/EntryNodeOfLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+              <caret line="31" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ListNode.java">
+      <file leaf-file-name="InversePairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/InversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindFirstCommonNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindFirstCommonNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -121,17 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/easy/WordPattern.java" />
-        <option value="$PROJECT_DIR$/src/easy/IsomorphicStrings.java" />
-        <option value="$PROJECT_DIR$/src/easy/HouseRobber.java" />
-        <option value="$PROJECT_DIR$/src/medium/HouseRobberII.java" />
-        <option value="$PROJECT_DIR$/src/easy/MaximumDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/easy/MinimumDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/easy/SqrtX.java" />
-        <option value="$PROJECT_DIR$/src/easy/InvertBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/medium/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/medium/AddTwoNumbersII.java" />
         <option value="$PROJECT_DIR$/src/medium/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/easy/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/easy/SumOfTwoIntegers.java" />
@@ -159,7 +188,6 @@
         <option value="$PROJECT_DIR$/Dagger2Offer/src/QueueWith2Stack.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/TwoSum.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/LeftRotateString.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/FindPath.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/Clone.java" />
@@ -170,6 +198,20 @@
         <option value="$PROJECT_DIR$/Dagger2Offer/src/FindNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/GetNumberOfK.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/FindGreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/Permutation.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/GetUglyNumber_Solution.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/FindContinuousSequence.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/TwoSum.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/FirstNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/FirstAppearingOnce.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/StrToInt.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/InversePairs.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/FindFirstCommonNode.java" />
       </list>
     </option>
   </component>
@@ -252,29 +294,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="easy" />
+              <option name="myItemId" value="production" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,10 +358,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindGreatestSumOfSubArray">
-    <configuration default="false" name="GetLeastNumbers_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.StrToInt">
+    <configuration default="false" name="FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GetLeastNumbers_Solution" />
+      <option name="MAIN_CLASS_NAME" value="FirstNotRepeatingChar" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -350,29 +374,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="KthLargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="medium.KthLargestElementInAnArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Convert" />
+      <option name="MAIN_CLASS_NAME" value="ReverseSentence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -385,9 +389,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="GetNumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GetNumberOfK" />
+      <option name="MAIN_CLASS_NAME" value="FindContinuousSequence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -400,9 +404,24 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FindGreatestSumOfSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FindNumbersWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FindGreatestSumOfSubArray" />
+      <option name="MAIN_CLASS_NAME" value="FindNumbersWithSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Dagger2Offer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StrToInt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -620,19 +639,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GetLeastNumbers_Solution" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KthLargestElementInAnArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Convert" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GetNumberOfK" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FindGreatestSumOfSubArray" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReverseSentence" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindContinuousSequence" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindNumbersWithSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StrToInt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FindGreatestSumOfSubArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GetNumberOfK" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Convert" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GetLeastNumbers_Solution" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KthLargestElementInAnArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StrToInt" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindNumbersWithSum" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FindContinuousSequence" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReverseSentence" />
       </list>
     </recent_temporary>
   </component>
@@ -770,8 +789,26 @@
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dagger2Offer/src/Permutation.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dagger2Offer/src/GetUglyNumber_Solution.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dagger2Offer/src/ReverseSentence.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="45" />
+      <option name="time" value="66" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -780,383 +817,159 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/easy/MaximumDepthOfBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/HuaWei/CharsSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="73">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/MinimumDepthOfBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/HuaWei/Bottle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="269" column="32" lean-forward="false" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="338" column="28" lean-forward="false" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="28" />
+        <state relative-caret-position="-93">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/SqrtX.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/TodayNews/StringShifting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding>
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1398#1399#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbersII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="177">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/SumOfTwoIntegers.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/TodayNews/TodayExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="43">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ReplaceSpace.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/TodayNews/XOR.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="17" column="76" lean-forward="true" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/Pow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="177">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/SearchIn2DArrays.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/test/AddWithouFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/PrintListFromTailToHead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#136#137#0" expanded="false" />
-            <element signature="e#159#160#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-750">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ReConstructBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/ArithmeticSeries.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/MinNumberInRotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/JumpFloor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/JumpFloorII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/NumberOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ReOrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="39" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindKthToTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/RemoveLinkedListElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="55" column="5" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/MergeTwoLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="177">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/PrintMatrix.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/AutomorphicNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="177">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Vector.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/BallHeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5138">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CalcuDaysNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="593" column="63" lean-forward="false" selection-start-line="593" selection-start-column="63" selection-end-line="593" selection-end-column="63" />
+        <state relative-caret-position="30">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/IsPopOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="101" column="44" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="101" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/PrintFromTopToBottom.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/QueueWith2Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/VerifySquenceOfBST.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CharNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="177">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Chickens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="-480">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/LeftRotateString.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CommonStringCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="-197">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Clone.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/ConfigurationFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/MoreThanHalfNum_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="177">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/KdiffPairsInAnArray.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CountStrB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/KthLargestElementInAnArray.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Cut8String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="177">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetLeastNumbers_Solution.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CutString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding>
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/DimensionalArrayOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -1164,42 +977,265 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/MergeListNode.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/DNAs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="-30">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Convert.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/FindEvenNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindNumsAppearOnce.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/FindNumbersOf1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="-120">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetNumberOfK.java">
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/HexToDex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/LastWordLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/LeastCommonMultiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/LegalIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/LongestCommonSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/MatrixCompute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/MaxContinuousBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/MergeTableRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/NicoChaseTheorem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/NotDuplicatedNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/NumberDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/NumCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="50" />
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindGreatestSumOfSubArray.java">
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/ReverseSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ReverseSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/MaxConsecutiveOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FirstAppearingOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/EntryNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <caret line="31" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding />
         </state>
       </provider>
