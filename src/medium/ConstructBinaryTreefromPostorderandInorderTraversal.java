@@ -31,16 +31,16 @@ public class ConstructBinaryTreefromPostorderandInorderTraversal {
 
     public static void preOrder(TreeNode root) {
         if (root == null) return;
-        preOrder(root.left);
         System.out.println(root.val);
+        preOrder(root.left);
         preOrder(root.right);
     }
 
     public static void main(String[] args) {
         int[] post = {1, 3, 5, 4, 2, 9, 8, 7, 6};
         int[] in = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-//        medium.TreeNode root = buildTree(pre, in);
-//        preOrder(root);
+//        medium.hard.TreeNode root = buildTree(pre, in);
+//        inOrder(root);
         TreeNode root3 = buildTree(in,post);
         preOrder(root3);
     }

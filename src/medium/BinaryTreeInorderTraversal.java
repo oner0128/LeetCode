@@ -1,13 +1,12 @@
 package medium;
 
-import medium.TreeNode;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
 /**
  * Created by rrr on 2017/4/10.
+ * 94. Binary Tree Inorder Traversal
  * Given a binary tree, return the inorder traversal of its nodes' values.
  * <p>
  * For example:

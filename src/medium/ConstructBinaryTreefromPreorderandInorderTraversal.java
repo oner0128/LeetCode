@@ -69,20 +69,21 @@ public static TreeNode buildTree3(int[] preorder, int[] inorder) {
         root.right=build3(preorder,preLow+numLeft+1,preHigh,inorder,inRoot+1,inHigh,map);
         return root;
     }
-    public static void preOrder(TreeNode root) {
+    public static void inOrder(TreeNode root) {
         if (root == null) return;
-        preOrder(root.left);
-        System.out.println(root.val);
-        preOrder(root.right);
+        inOrder(root.left);
+        System.out.print(root.val);
+        inOrder(root.right);
     }
 
     public static void main(String[] args) {
         int[] pre = {6, 2, 1, 4, 3, 5, 7, 8, 9};
         int[] in = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         TreeNode root = buildTree(pre, in);
-        preOrder(root);
+        inOrder(root);
         TreeNode root3 = buildTree3(pre, in);
-        preOrder(root3);
+        System.out.println();
+        inOrder(root3);
     }
 }
 

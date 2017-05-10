@@ -14,7 +14,7 @@ import java.util.Arrays;
  * For example, given [1,2,3,4], return [24,12,8,6].
  * 思路一：//先统计出数组中0的个数，若有两个零则输出数组全为0，若有一个0，则只需计算该0的位置即可返回数组。
  *          若没有0，则先计算所有数的乘积，对于每个output[i]=mul/nums[i]
- * 思路二：//先计算当前位置i前所有的数乘积，再计算但钱位置i后所有的数的乘积
+ * 思路二：//先计算当前位置i前所有的数乘积，再计算当前位置i后所有的数的乘积
  */
 public class ProductOfArrayExceptSelf {
     //先统计出数组中0的个数，若有两个零则输出数组全为0，若有一个0，则只需计算该0的位置即可返回数组。
@@ -90,7 +90,6 @@ public class ProductOfArrayExceptSelf {
         for(int j = 0; j < len; j++){
             output[j] *= leftMult;
             leftMult *= nums[j];
-
         }
 
         return output;
