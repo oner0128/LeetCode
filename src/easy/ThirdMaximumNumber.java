@@ -28,6 +28,7 @@ import java.util.Arrays;
  * Both numbers with value 2 are both considered as second maximum.
  */
 public class ThirdMaximumNumber {
+    //不会，思路不对，在没有对三个数赋值时不会判断大小
     public static int thirdMax(int[] nums) {
         if (nums.length < 3) return nums.length == 2 ? (nums[0] >= nums[1] ? nums[0] : nums[1]) : nums[0];
         int third, first, second;
@@ -78,29 +79,24 @@ public class ThirdMaximumNumber {
     }
 
     public static int thirdMax2(int[] nums) {
-        if (nums.length < 3) return nums.length == 2 ? (nums[0] >= nums[1] ? nums[0] : nums[1]) : nums[0];
-        int third, first, second;
-        third = first = second = nums[0];
-        for (int i = 1; i < nums.length; i++) {
-            if (third==second){third=Math.min(third,nums[i]);}
-            if (third >= nums[i] ) continue;
-            if (second >= nums[i]) {
-                third = second == nums[i] ? third : nums[i];
-                continue;
-            }
-            if (first > nums[i]) {
-                third = second;
-                second = nums[i];
-                continue;
-            } else if (first < nums[i]){
-                third = second;
-                second = first;
-                first = nums[i];
+        Integer max1 = null;
+        Integer max2 = null;
+        Integer max3 = null;
+        for (Integer n : nums) {
+            if (n.equals(max1) || n.equals(max2) || n.equals(max3)) continue;
+            if (max1 == null || n > max1) {
+                max3 = max2;
+                max2 = max1;
+                max1 = n;
+            } else if (max2 == null || n > max2) {
+                max3 = max2;
+                max2 = n;
+            } else if (max3 == null || n > max3) {
+                max3 = n;
             }
         }
-        return third == second ? first : third;
+        return max3 == null ? max1 : max3;
     }
-
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 5, 6};
         System.out.println(Arrays.toString(nums));

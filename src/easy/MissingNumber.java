@@ -6,7 +6,7 @@ package easy;
  * Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
  * <p>
  * For example,
- * Given nums = [0, 1, 3] return 2.
+ * Given sum = [0, 1, 3] return 2.
  * <p>
  * Note:
  * Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?
@@ -15,12 +15,12 @@ package easy;
  // The basic idea is to use XOR operation. We all know that a^b^b =a,
  // which means two xor operations with the same number will eliminate the number and reveal the original number.
  // In this solution, I apply XOR operation to both the index and value of the array. In a complete array with no missing numbers,
- // the index and value should be perfectly corresponding( nums[index] = index), so in a missing array, what left finally is the missing number.
+ // the index and value should be perfectly corresponding( sum[index] = index), so in a missing array, what left finally is the missing number.
  XOR=0,i=0
- XOR=XOR^i^nums[i];
+ XOR=XOR^i^sum[i];
  return XOR^i
  算法流程
- nums = {0, 3, 1};
+ sum = {0, 3, 1};
  0^0^0^1^3^2^1 ,return XOR^i ,0^0^0^1^3^2^1^3
  即0^0^0^1^1^3^3^2 =0^2=2因此得到missingNum=2
  */
@@ -62,7 +62,7 @@ public class MissingNumber {
     // The basic idea is to use XOR operation. We all know that a^b^b =a,
     // which means two xor operations with the same number will eliminate the number and reveal the original number.
     // In this solution, I apply XOR operation to both the index and value of the array. In a complete array with no missing numbers,
-    // the index and value should be perfectly corresponding( nums[index] = index), so in a missing array, what left finally is the missing number.
+    // the index and value should be perfectly corresponding( sum[index] = index), so in a missing array, what left finally is the missing number.
     public static int missingNumber4(int[] nums) {
 
         int xor = 0, i = 0;

@@ -2,232 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ade671-f944-4b31-9695-3ccf9a68da63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/DeleteDuplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Duplicate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/HasSubtree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/IsBalanced_Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/IsNumeric.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Multiply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easy/BalancedBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easy/SameTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hard/BinaryTreePostorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hard/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/BinaryTreePreorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/FindLargestValueInEachTreeRow.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ArithmeticSeries.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ArraySum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/AutomorphicNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/BallHeight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/CalcuDaysNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Calculate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/CharNums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Chickens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/CommonStringCalculation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ConfigurationFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/CountStrB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Cut8String.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/CutString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/DNAs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/DimensionalArrayOperations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Division.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ErrorLog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/FindEvenNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/FindNumbersOf1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Fish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/HexToDex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/LastWordLength.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/LeastCommonMultiple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/LegalIP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/LongestCommonSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/MatrixCompute.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/MaxContinuousBits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/MergeTableRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/NicoChaseTheorem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/NotDuplicatedNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/NumCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/NumberDown.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Nums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Password.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PasswordStrength.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PerfectNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PictureSorted.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PrarasResolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PrimeFactors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/PutApples.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Queen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Rabbits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ResolveParams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/ReverseSentence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/SevenNums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/SortedByLeftRight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/StringReverse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/StudentSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/SuperPrime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/TopScore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/TwoBigIntegerAdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/TwoPrime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/UpperCaseNums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/Word.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/AddWithouFour.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/Bottle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/CharsSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/DeleteNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/ErrorLog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/ErrorLog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/HighScore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/Poker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/SortOnly0Ton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/HuaWei/aAndb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/TodayNews/StringShifting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/TodayNews/TodayExam.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/TodayNews/XOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/BoyAndGirl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/GoCompany.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/Magic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/RED.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/RemeberWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/RemoveDupli.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/SetSize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/WangYi/TwoCPU.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HuaWei/test/qq/MoveChar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/AddBinary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/AddStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/BestTimetoBuyandSellStock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/BestTimetoBuyandSellStockII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ClimbingStairs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ContainsDuplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ContainsDuplicateII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/CountPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/DetectCapital.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/FindTheDifference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/HammingDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/HappyNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/HouseRobber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ImplementStr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/IntersectionOfTwoArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/IntersectionOfTwoArraysII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/InvertBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/IsomorphicStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/KdiffPairsInAnArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/KeyboardRow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/LengthOfLastWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/LongestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/LongestPalindromicSubstring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MajorityElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MaxConsecutiveOnes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MaxSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MaximumDepthOfBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MergeSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MergeTwoLists$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MergeTwoLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MinimumDepthOfBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MissingNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/MoveZeros.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/NumberOfSegmentsInAString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/PalindromeNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/PascalTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/PascalTriangleII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/PlusOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RansomNote.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RemoveDuplicatesfromSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RemoveElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RemoveLinkedListElements.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RepeatedSubstringPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseStringII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseVowelsOfAString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ReverseWordsInAStringIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RomanToInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/RotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/SearchInsertPosition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/SingleNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/SqrtX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/StudentAttendanceRecordI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/SumOfTwoIntegers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ThirdMaximumNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/TwoSumII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ValidAnagram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ValidPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/ValidParentheses.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/easy/WordPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/hard/FindMinimumInRotatedSortedArrayII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/hard/FirstMissingPositive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/hard/LongestConsecutiveSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/AddTwoNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/AddTwoNumbersII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/BinaryTreeInorderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/BinaryTreeLevelOrderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/BrickWall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CombinationSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CombinationSumII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CombinationSumIII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ConstructBinaryTreefromPostorderandInorderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ConstructBinaryTreefromPreorderandInorderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ContainerWithMostWater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ContiguousArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CountBattleships.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/CountBits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FindMinimumInRotatedSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FindPeakElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FindTheDuplicateNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/FourSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/GenerateParentheses.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/GroupAnagrams.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/HouseRobberII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/InsertDeleteGetRandomO1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/IntegerToRoman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/JumpGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/KthLargestElementInAnArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/LetterCombinationsOfAPhoneNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/LongestPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/LongestSubstringWithoutRepeatingCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/MinimumPathSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/MinimumSizeSubarraySum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/MostFrequentSubtreeSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/MultiplyStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Pow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ProductOfArrayExceptSelf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/RemoveDuplicatesfromSortedArrayII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/RotateImage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Search2DMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Search2DMatrixII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchInRotatedSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchInRotatedSortedArrayII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SearchRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SetMatrixZeroes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SingleNumberII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SortCharactersByFrequency$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SortCharactersByFrequency.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SortColors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SpiralMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SpiralMatrixII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/StringToInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Subsets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/SubsetsII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/TeemoAttacking.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ThreeSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ThreeSumClosest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/TopKFrequent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/Triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/UniquePaths.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/UniquePathsII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ValidSudoku.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/medium/ZigZagConversion.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Dagger2Offer/StrToInt.class" afterPath="$PROJECT_DIR$/out/production/Dagger2Offer/StrToInt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/IsSymmetrical.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/LastRemaining_Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dagger2Offer/src/Print.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HuaWei/src/Sort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/easy/RangeSumQueryImmutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/RangeSumQuery2DImmutable.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPostorderandInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPostorderandInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ProductOfArrayExceptSelf.java" afterPath="$PROJECT_DIR$/src/medium/ProductOfArrayExceptSelf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/ContainsDuplicateII.java" afterPath="$PROJECT_DIR$/src/easy/ContainsDuplicateII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/KdiffPairsInAnArray.java" afterPath="$PROJECT_DIR$/src/easy/KdiffPairsInAnArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/MissingNumber.java" afterPath="$PROJECT_DIR$/src/easy/MissingNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/MoveZeros.java" afterPath="$PROJECT_DIR$/src/easy/MoveZeros.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java" afterPath="$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -243,41 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Multiply.java">
+      <file leaf-file-name="RangeSumQuery2DImmutable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/RangeSumQuery2DImmutable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicatesfromSortedArrayII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/RemoveDuplicatesfromSortedArrayII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/RemoveElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsNumeric.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/IsNumeric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="215">
+              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -303,13 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/FindKthToTail.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/MergeListNode.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/PrintMatrix.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/MinStack.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/IsPopOrder.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/Queue.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/QueueWith2Stack.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/VerifySquenceOfBST.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/LeftRotateString.java" />
@@ -336,7 +85,6 @@
         <option value="$PROJECT_DIR$/Dagger2Offer/src/EntryNodeOfLoop.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/InversePairs.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/FindFirstCommonNode.java" />
-        <option value="$PROJECT_DIR$/Dagger2Offer/src/HasSubtree.java" />
         <option value="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPostorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java" />
@@ -354,6 +102,14 @@
         <option value="$PROJECT_DIR$/Dagger2Offer/src/Multiply.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/isNumeric.java" />
         <option value="$PROJECT_DIR$/Dagger2Offer/src/IsNumeric.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/HasSubtree.java" />
+        <option value="$PROJECT_DIR$/HuaWei/src/Sort.java" />
+        <option value="$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/IsSymmetrical.java" />
+        <option value="$PROJECT_DIR$/Dagger2Offer/src/Print.java" />
+        <option value="$PROJECT_DIR$/src/easy/RangeSumQueryImmutable.java" />
+        <option value="$PROJECT_DIR$/src/medium/RangeSumQuery2DImmutable.java" />
       </list>
     </option>
   </component>
@@ -397,8 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -457,24 +211,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -489,48 +225,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Dagger2Offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dagger2Offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -554,57 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Duplicate">
-    <configuration default="false" name="FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FirstNotRepeatingChar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Dagger2Offer" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="StrToInt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Dagger2Offer" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ConstructBinaryTreefromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="medium.ConstructBinaryTreefromPreorderandInorderTraversal" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RangeSumQueryImmutable">
     <configuration default="false" name="DeleteDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DeleteDuplication" />
@@ -632,6 +284,56 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Dagger2Offer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LastRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="LastRemaining_Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Dagger2Offer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Print" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Dagger2Offer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RangeSumQueryImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="easy.RangeSumQueryImmutable" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
       <envs />
       <method />
     </configuration>
@@ -840,19 +542,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StrToInt" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTreefromPreorderandInorderTraversal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DeleteDuplication" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Duplicate" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DeleteDuplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Duplicate" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LastRemaining_Solution" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Print" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RangeSumQueryImmutable" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Duplicate" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DeleteDuplication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StrToInt" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RangeSumQueryImmutable" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Print" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LastRemaining_Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Duplicate" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DeleteDuplication" />
       </list>
     </recent_temporary>
   </component>
@@ -867,6 +569,14 @@
       <option name="presentableId" value="Default" />
       <updated>1493389579578</updated>
     </task>
+    <task id="LOCAL-00001" summary="coding dagger2offer and LeetCode in 20170510">
+      <created>1494422317222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494422317222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -880,7 +590,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -891,13 +600,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34860334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34860334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20682302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -914,6 +623,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coding dagger2offer and LeetCode in 20170510" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding dagger2offer and LeetCode in 20170510" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1014,8 +727,26 @@
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dagger2Offer/src/LastRemaining_Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Dagger2Offer/src/Print.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/RangeSumQueryImmutable.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="69" />
+      <option name="time" value="74" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1024,119 +755,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/HexToDex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/LastWordLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/LeastCommonMultiple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/LegalIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/LongestCommonSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/MatrixCompute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/MaxContinuousBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/MergeTableRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/NicoChaseTheorem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/NotDuplicatedNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/NumberDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/NumCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/PrintMinNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaWei/src/ReverseSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/ReverseSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/FindContinuousSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1148,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,9 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="32" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,10 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="e#536#537#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1201,10 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#740#741#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1212,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="31" column="5" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="38" column="5" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,15 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/HasSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1260,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-612">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-313">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1276,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="81" column="6" lean-forward="false" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="33" column="37" lean-forward="false" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,13 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1101#1110#0" expanded="false" />
-            <element signature="e#1156#1166#0" expanded="false" />
-            <element signature="e#1599#1608#0" expanded="false" />
-            <element signature="e#1653#1663#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,9 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1324,9 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="737">
           <caret line="54" column="5" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1334,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,18 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#175#176#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1361,10 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1129#1138#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1372,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="647">
           <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1380,10 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1399,7 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1407,15 +957,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="91" column="32" lean-forward="true" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="570">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1423,22 +971,159 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/RemoveElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/IsNumeric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="167">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="130" column="13" lean-forward="false" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="151" column="22" lean-forward="false" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/HasSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/CalcuDaysNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuaWei/src/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="131" column="18" lean-forward="false" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/KdiffPairsInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/FindTheDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="83" column="28" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/LastRemaining_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/IsSymmetrical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/RangeSumQueryImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dagger2Offer/src/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/RangeSumQuery2DImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
           <folding />
         </state>
       </provider>

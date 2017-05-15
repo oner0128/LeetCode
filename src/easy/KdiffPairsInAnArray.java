@@ -78,14 +78,14 @@ public class KdiffPairsInAnArray {
         if (k < 0 || nums.length < 2) return 0;
         int pairs = 0;
         Set<Integer> set = new HashSet<>();
-//        for (int i = 0; i < nums.length; i++) {
-//            if (set.contains(nums[i])) pairs++;
+//        for (int i = 0; i < sum.length; i++) {
+//            if (set.contains(sum[i])) pairs++;
 //            else {
-//                int diff1 = Math.abs(k - nums[i]);
-//                int diff2 = Math.abs(k + nums[i]);
+//                int diff1 = Math.abs(k - sum[i]);
+//                int diff2 = Math.abs(k + sum[i]);
 //                set.add(diff1);
 //                set.add(diff2);
-//                while (i < nums.length - 1 && nums[i + 1] == nums[i]) i++;
+//                while (i < sum.length - 1 && sum[i + 1] == sum[i]) i++;
 //            }
 //        }
         return pairs;
