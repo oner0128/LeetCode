@@ -23,29 +23,9 @@ public class ContainerWithMostWater {
         }
         return max;
     }
-
-    public static int maxArea2(int[] height) {
-        int[] area = new int[height.length - 1];
-        for (int i = 0; i < height.length - 1; i++) {
-            area[i] = height[i + 1]-height[i];
-        }
-//        area[i]=Math.min(height[i+1],height[i]);
-        System.out.println(Arrays.toString(area));
-        //等价于求子数组最大和
-        int n = area.length;
-        int[] dp = new int[n];//dp[i] means the maximum subarray ending with A[i];
-        dp[0] = area[0];
-        int max = dp[0];
-        for(int i = 1; i < n; i++){
-            dp[i] = area[i] + (dp[i - 1] > 0 ? dp[i - 1] : 0);
-            max = Math.max(max, dp[i]);
-        }
-
-        return max;
-    }
     //LeetCode大神解法
 //    https://discuss.leetcode.com/topic/25004/easy-concise-java-o-n-solution-with-proof-and-explanation
-    public int maxArea3(int[] height) {
+    public static int maxArea2(int[] height) {
         int len = height.length, low = 0, high = len -1 ;
         int maxArea = 0;
         while (low < high) {
