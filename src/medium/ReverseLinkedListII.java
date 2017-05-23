@@ -1,7 +1,5 @@
 package medium;
 
-import java.util.List;
-
 /**
  * Created by rrr on 2017/5/16.
  * 92. Reverse Linked List II

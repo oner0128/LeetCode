@@ -51,7 +51,8 @@ public class AddTwoNumbersII {
             stack2.push(l2.val);
             l2 = l2.next;
         }
-        int sum=0;ListNode head=null;
+        int sum=0;
+        ListNode head=null;
         while (!stack1.empty()||!stack2.empty()||sum!=0){
             int one=stack1.empty()?0:stack1.pop();
             int two=stack2.empty()?0:stack2.pop();
