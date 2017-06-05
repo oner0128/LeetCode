@@ -71,7 +71,7 @@ public class JumpGame {
     }
 
     //错误思路：从前往后遍历，相当于穷举法，虽然也能求出解但是O(n^n)
-    //正确思路：应该从后往前遍历，利用贪婪算法O(n)
+    //正确思路：应该从后往前遍历，利用贪婪算法O(n),即当前位置的值nums[i]加上位置序号是否大于等于last(即最大能到达的地方)
     public boolean canJump3(int[] nums) {
         int last=nums.length-1;
         for (int i = nums.length-2; i >=0 ; i--) {
