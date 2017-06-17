@@ -15,10 +15,17 @@ public class RemoveDuplicatesfromSortedList {
         preHead.next=head;
         while (head!=null){
             ListNode cur=head;
-            while (cur.next!=null&&cur.val!=cur.next.val)cur=cur.next;
+            while (cur.next!=null&&cur.val==cur.next.val)cur=cur.next;
             head.next=cur.next;
             head=head.next;
         }
         return preHead.next;
+    }
+    //leetcode解法
+    //递归，当当前结点和下一个结点相等时返回下一个结点，否则返回当前结点
+    public ListNode deleteDuplicates2(ListNode head) {
+        if(head == null || head.next == null)return head;
+        head.next = deleteDuplicates(head.next);
+        return head.val == head.next.val ? head.next : head;
     }
 }
