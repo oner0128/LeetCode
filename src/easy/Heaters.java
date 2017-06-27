@@ -106,6 +106,16 @@ public class Heaters {
         System.out.println(findRadius3(new int[]{1, 2, 3, 4, 5, 6}, new int[]{1, 5, 5, 5, 6}));
         System.out.println(findRadius3(new int[]{282475249,622650073,984943658,144108930,470211272,101027544,457850878,458777923}, new int[]{823564440,115438165,784484492,74243042,114807987,137522503,441282327,16531729,823378840,143542612}));
         System.out.println(findRadius3(new int[]{282475249,622650073,984943658,144108930,470211272,101027544,457850878,458777923}, new int[]{823564440,115438165,784484492,74243042,114807987,137522503,441282327,16531729,823378840,143542612}));
-
+        System.out.println(Arrays.binarySearch(new int[]{1,2,5}, 3));
+        int[]heaters={1,2,5};int house=3;
+        int lo = 0, hi = heaters.length-1;
+        int mid = lo + (hi - lo) / 2;
+        while (lo < hi) {
+            mid = lo + (hi - lo) / 2;
+            if (heaters[mid] == house) break;
+            if (heaters[mid] > house) hi = mid;
+            else lo = mid + 1;
+        }
+        System.out.println(lo);
     }
 }

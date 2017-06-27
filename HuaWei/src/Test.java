@@ -15,6 +15,7 @@ public class Test {
             //Date date2 = new Date(System.currentTimeMillis());
             String str = String.format("%tj",date);//得到time日期是在这年的第几天
             System.out.println(str);
+            System.out.println("ABC".indexOf('a'));
         } catch (ParseException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
