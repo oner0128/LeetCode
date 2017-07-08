@@ -1,3 +1,5 @@
+import java.util.Random;
+
 /**
  * Created by rrr on 2017/2/14.
  */
@@ -14,5 +16,11 @@ public class BinarySearch {
             }else return mid;
         }
         return -1;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Random().nextInt(5));
+        StringBuilder stringBuilder=new StringBuilder("12345");
+        System.out.println(stringBuilder.insert(2,"a").toString());
     }
 }

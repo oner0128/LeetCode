@@ -1,9 +1,6 @@
 package medium;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by rrr on 2017/5/23.
@@ -20,7 +17,7 @@ import java.util.List;
  */
 public class PermutationsII {
     //LeetCode解法 9ms
-    public List<List<Integer>> permuteUnique(int[] nums) {
+    public static List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> res = new LinkedList<>();
         if (nums == null || nums.length == 0) return res;
         Arrays.sort(nums);
@@ -28,7 +25,7 @@ public class PermutationsII {
         return res;
     }
 
-    private void backtracking(int[] nums, List<List<Integer>> res, ArrayList<Integer> list, boolean[] used) {
+    private static void backtracking(int[] nums, List<List<Integer>> res, ArrayList<Integer> list, boolean[] used) {
         if (list.size() == nums.length) res.add(new ArrayList<>(list));
         else for (int i = 0; i < nums.length; i++) {
             if (used[i] || i > 0 && nums[i - 1] == nums[i] && !used[i - 1]) continue;
@@ -38,5 +35,9 @@ public class PermutationsII {
             used[i] = false;
             list.remove(list.size() - 1);
         }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(permuteUnique(new int[]{1,1,2}));
     }
 }
