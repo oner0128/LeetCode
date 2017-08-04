@@ -13,39 +13,37 @@ public class IPClassify {
         ERROR,
         PRIVATE_IP,
         DEFAULT;
-
-        int valueOf() {
-            int value = 0;
-            switch (this) {
-                case A:
-                    value = 0;
-                    break;
-                case B:
-                    value = 1;
-                    break;
-                case C:
-                    value = 2;
-                    break;
-                case D:
-                    value = 3;
-                    break;
-                case E:
-                    value = 4;
-                    break;
-                case ERROR:
-                    value = 5;
-                    break;
-                case PRIVATE_IP:
-                    value = 6;
-                    break;
-                default:
-                    value = -1;
-                    break;
-            }
-            return value;
-        }
     }
-
+    public static int valueOf(Category category) {
+        int value = 0;
+        switch (category) {
+            case A:
+                value = 0;
+                break;
+            case B:
+                value = 1;
+                break;
+            case C:
+                value = 2;
+                break;
+            case D:
+                value = 3;
+                break;
+            case E:
+                value = 4;
+                break;
+            case ERROR:
+                value = 5;
+                break;
+            case PRIVATE_IP:
+                value = 6;
+                break;
+            default:
+                value = -1;
+                break;
+        }
+        return value;
+    }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] result = new int[7];
@@ -54,9 +52,9 @@ public class IPClassify {
             String[] str = address.split("~");
             Category[] categoryIP = calssify(str[0]);
             Category categoryMask = calssifyMask(str[1]);
-            if (categoryIP[0].valueOf() != -1) result[categoryIP[0].valueOf()]++;
-            if (categoryIP[1].valueOf() != -1) result[categoryIP[1].valueOf()]++;
-            if (categoryMask.valueOf() != -1) result[categoryMask.valueOf()]++;
+            if (valueOf(categoryIP[0]) != -1) result[valueOf(categoryIP[0])]++;
+            if (valueOf(categoryIP[1]) != -1) result[valueOf(categoryIP[1])]++;
+            if (valueOf(categoryMask) != -1) result[valueOf(categoryMask)]++;
         }
         StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < result.length; i++) {
@@ -68,7 +66,7 @@ public class IPClassify {
     }
 
     public static Category calssifyMask(String maskAddress) {
-        String[] maskStr = maskAddress.split(".");
+        String[] maskStr = maskAddress.split("\\.");
         String strMask = "";
         for (int i = 0; i < maskStr.length; i++)
             if (Integer.valueOf(maskStr[i]) > 255 || Integer.valueOf(maskStr[i]) < 0) return Category.ERROR;
@@ -81,10 +79,10 @@ public class IPClassify {
 
     public static Category[] calssify(String address) {
         Category[] result = new Category[2];
-        String[] ipStr = address.split(".");
+        String[] ipStr = address.split("\\.");
         int[] ip = new int[4];
         for (int i = 0; i < ipStr.length; i++)
-            if (Integer.valueOf(ipStr[i]) > 255 || Integer.valueOf(ipStr[i]) < 0) {
+            if (ipStr[i]==null||ipStr[i].length()==0||Integer.valueOf(ipStr[i]) > 255 || Integer.valueOf(ipStr[i]) < 0) {
                 return new Category[]{Category.ERROR, Category.DEFAULT};
             } else ip[i] = Integer.valueOf(ipStr[i]);
 
@@ -93,10 +91,12 @@ public class IPClassify {
         else if (ip[0] <= 223 && ip[0] >= 192) result[0] = Category.C;
         else if (ip[0] <= 239 && ip[0] >= 224) result[0] = Category.D;
         else if (ip[0] <= 240 && ip[0] >= 255) result[0] = Category.E;
+        else result[0]=Category.DEFAULT;
 
         if (ip[0] == 10) result[1] = Category.PRIVATE_IP;
         else if (ip[0] == 172 && ip[1] >= 16 && ip[1] <= 33) result[1] = Category.PRIVATE_IP;
         else if (ip[0] == 192 && ip[1] == 168) result[1] = Category.PRIVATE_IP;
+        else result[1]=Category.DEFAULT;
         return result;
     }
 }
