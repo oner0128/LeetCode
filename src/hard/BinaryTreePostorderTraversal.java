@@ -33,12 +33,11 @@ public class BinaryTreePostorderTraversal {
             }
             if (!stack.isEmpty()) {
                 TreeNode node = stack.peek();
-                if (node.right == null || node.right == lastNode) {//无右子树或右子树已经遍历
-                    cur=stack.pop();
-                    post.add(cur.val);
-                    lastNode = cur;
-                    cur = null;
-                } else {//存在右子树且右子树未遍历
+                if (node.right == null || node.right == lastNode) {//无右孩子或右孩子已经遍历,输出当前结点
+                    post.add(node.val);
+                    lastNode = node;
+                    stack.pop();
+                } else {//存在右孩子且右孩子未遍历，处理右孩子
                     cur=node.right;
                 }
             }
