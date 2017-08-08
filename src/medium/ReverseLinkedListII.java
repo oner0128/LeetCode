@@ -1,5 +1,7 @@
 package medium;
 
+import base.ListNode;
+
 /**
  * Created by rrr on 2017/5/16.
  * 92. Reverse Linked List II

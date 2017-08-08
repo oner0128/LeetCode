@@ -1,6 +1,6 @@
 package hard;
 
-import java.nio.file.LinkOption;
+import base.ListNode;
 
 /**
  * Created by rrr on 2017/6/17.

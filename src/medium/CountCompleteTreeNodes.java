@@ -1,5 +1,7 @@
 package medium;
 
+import base.TreeNode;
+
 /**
  * Created by rrr on 2017/6/20.
  * 222. Count Complete Tree Nodes

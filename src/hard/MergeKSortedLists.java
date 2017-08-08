@@ -1,5 +1,7 @@
 package hard;
 
+import base.ListNode;
+
 import java.util.Comparator;
 import java.util.PriorityQueue;
 

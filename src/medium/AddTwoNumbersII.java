@@ -1,5 +1,7 @@
 package medium;
 
+import base.ListNode;
+
 import java.util.HashMap;
 import java.util.Stack;
 

@@ -1,5 +1,7 @@
 package medium;
 
+import base.TreeNode;
+
 import java.util.*;
 
 /**

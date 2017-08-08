@@ -1,5 +1,7 @@
 package medium;
 
+import base.ListNode;
+
 /**
  * Created by rrr on 2017/5/3.
  * 2. Add Two Numbers

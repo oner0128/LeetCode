@@ -1,6 +1,6 @@
 package medium;
 
-import java.util.List;
+import base.ListNode;
 
 /**
  * Created by rrr on 2017/6/5.

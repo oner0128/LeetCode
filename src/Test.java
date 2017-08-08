@@ -1,4 +1,4 @@
-import medium.TreeNode;
+import base.TreeNode;
 import medium.ValidateBinarySearchTree;
 
 /**

@@ -1,5 +1,7 @@
 package medium;
 
+import base.ListNode;
+
 /**
  * Created by rrr on 2017/6/5.
  * 143. Reorder List

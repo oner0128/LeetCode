@@ -1,5 +1,7 @@
 package medium;
 
+import base.ListNode;
+
 /**
  * Created by rrr on 2017/5/18.
  * 19. Remove Nth Node From End of List
