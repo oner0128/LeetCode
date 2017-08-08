@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2ade671-f944-4b31-9695-3ccf9a68da63" name="Default" comment="coding LeetCode and Huawei in 20170807">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HuaWei/src/DeleteMinChars.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HuaWei/src/StrSimilarity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/base/TreeLinkNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/FlattenBinaryTreeToLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hard/SubstringWithConcatenationOfAllWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/BinaryTreeRightSideView.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/hard/ListNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/hard/TreeNode.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HuaWei/src/EditDistance.java" afterPath="$PROJECT_DIR$/HuaWei/src/EditDistance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hard/BinaryTreePostorderTraversal.java" afterPath="$PROJECT_DIR$/src/hard/BinaryTreePostorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hard/MergeKSortedLists.java" afterPath="$PROJECT_DIR$/src/hard/MergeKSortedLists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hard/ReverseNodesInkGroup.java" afterPath="$PROJECT_DIR$/src/hard/ReverseNodesInkGroup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/medium/AddTwoNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/AddTwoNumbersII.java" afterPath="$PROJECT_DIR$/src/medium/AddTwoNumbersII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/BinaryTreeLevelOrderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/BinaryTreePreorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/BinaryTreePreorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/BinaryTreeZigzagLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPostorderandInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPostorderandInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" afterPath="$PROJECT_DIR$/src/medium/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ConvertSortedListToBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/medium/ConvertSortedListToBinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/CountCompleteTreeNodes.java" afterPath="$PROJECT_DIR$/src/medium/CountCompleteTreeNodes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/FindLargestValueInEachTreeRow.java" afterPath="$PROJECT_DIR$/src/medium/FindLargestValueInEachTreeRow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/InsertionSortList.java" afterPath="$PROJECT_DIR$/src/medium/InsertionSortList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/KthSmallestElementInABST.java" afterPath="$PROJECT_DIR$/src/medium/KthSmallestElementInABST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/LinkedListCycleII.java" afterPath="$PROJECT_DIR$/src/medium/LinkedListCycleII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/MostFrequentSubtreeSum.java" afterPath="$PROJECT_DIR$/src/medium/MostFrequentSubtreeSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/OddEvenLinkedList.java" afterPath="$PROJECT_DIR$/src/medium/OddEvenLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/PartitionList.java" afterPath="$PROJECT_DIR$/src/medium/PartitionList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/PathSumII.java" afterPath="$PROJECT_DIR$/src/medium/PathSumII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/RemoveDuplicatesfromSortedListII.java" afterPath="$PROJECT_DIR$/src/medium/RemoveDuplicatesfromSortedListII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/RemoveNthNodeFromEndofList.java" afterPath="$PROJECT_DIR$/src/medium/RemoveNthNodeFromEndofList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ReorderList.java" afterPath="$PROJECT_DIR$/src/medium/ReorderList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ReverseLinkedListII.java" afterPath="$PROJECT_DIR$/src/medium/ReverseLinkedListII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/RotateList.java" afterPath="$PROJECT_DIR$/src/medium/RotateList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/SortList.java" afterPath="$PROJECT_DIR$/src/medium/SortList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/SwapNodesInPairs.java" afterPath="$PROJECT_DIR$/src/medium/SwapNodesInPairs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/UniqueBinarySearchTreesII.java" afterPath="$PROJECT_DIR$/src/medium/UniqueBinarySearchTreesII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/medium/ValidateBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/medium/ValidateBinarySearchTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BinarySearch.java" afterPath="$PROJECT_DIR$/src/base/BinarySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/medium/ListNode.java" afterPath="$PROJECT_DIR$/src/base/ListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/medium/TreeNode.java" afterPath="$PROJECT_DIR$/src/base/TreeNode.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +20,42 @@
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PopulatingNextRightPointersInEachNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="59" column="45" lean-forward="false" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeRightSideView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubstringWithConcatenationOfAllWords.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hard/SubstringWithConcatenationOfAllWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/medium/CountCompleteTreeNodes.java" />
-        <option value="$PROJECT_DIR$/src/medium/KthSmallestElementInASortedMatrix.java" />
         <option value="$PROJECT_DIR$/HuaWei/src/MatrixComputing.java" />
         <option value="$PROJECT_DIR$/HuaWei/src/StringEncrypt.java" />
         <option value="$PROJECT_DIR$/HuaWei/src/StringAdd.java" />
@@ -125,12 +119,14 @@
         <option value="$PROJECT_DIR$/src/hard/EditDistance.java" />
         <option value="$PROJECT_DIR$/src/TreeLinkNode/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/TreeLinkNode.java" />
-        <option value="$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java" />
         <option value="$PROJECT_DIR$/src/base/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/base/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/hard/BinaryTreePostorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/base/ListNode.java" />
         <option value="$PROJECT_DIR$/src/base/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java" />
+        <option value="$PROJECT_DIR$/src/medium/BinaryTreeRightSideView.java" />
+        <option value="$PROJECT_DIR$/src/hard/SubstringWithConcatenationOfAllWords.java" />
       </list>
     </option>
   </component>
@@ -218,25 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="easy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeetCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
+              <option name="myItemId" value="hard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -690,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502117467605</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adjust file structure">
+      <created>1502161493165</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1502161493165</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -771,7 +756,8 @@
     <MESSAGE value="coding LeetCode and huaweiOJ in 20170708" />
     <MESSAGE value="coding LeetCode in 20170806" />
     <MESSAGE value="coding LeetCode and Huawei in 20170807" />
-    <option name="LAST_COMMIT_MESSAGE" value="coding LeetCode and Huawei in 20170807" />
+    <MESSAGE value="Adjust file structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust file structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1026,20 +1012,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18499">
-          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/LeetCode/Test2.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-270">
@@ -1188,14 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1321,8 +1285,8 @@
         <state relative-caret-position="150">
           <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1332,8 +1296,8 @@
         <state relative-caret-position="270">
           <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="false" />
+            <element signature="e#200#201#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1422,6 +1386,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/PopulatingNextRightPointersInEachNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="59" column="45" lean-forward="false" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/BinaryTreeRightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hard/SubstringWithConcatenationOfAllWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>
