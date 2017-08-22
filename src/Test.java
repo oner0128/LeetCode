@@ -1,3 +1,5 @@
+import java.text.NumberFormat;
+
 /**
  * Created by rrr on 2017/7/11.
  */
@@ -8,6 +10,7 @@ public class Test {
 
         System.out.println("test main".indexOf('t',1));
         System.out.println("test main".substring(0,2));
+        System.out.println(Integer.toString(5, 2));
     }
 }
 
