@@ -36,3 +36,35 @@ class Test2 extends Test {
         System.out.println(s.isEmpty());
     }
 }
+interface SimpleInterface {
+    public void doSomeWork();
+
+    //A default method in the interface created using "default" keyword
+    //使用default关键字创在interface中直接创建一个default方法，该方法包含了具体的实现代码
+    default public void doSomeOtherWork(){
+        System.out.println("DoSomeOtherWork implementation in the interface");
+    }
+}
+
+class SimpleInterfaceImpl implements SimpleInterface{
+    @Override
+    public void doSomeWork() {
+        System.out.println("Do Some Work implementation in the class");
+    }
+
+    @Override
+    public void doSomeOtherWork() {
+        System.out.println("Override DoSomeOtherWork ");
+    }
+    /*
+   * Not required to override to provide an implementation
+   * for doSomeOtherWork.
+   * 在SimpleInterfaceImpl里，不需要再去实现接口中定义的doSomeOtherWork方法
+   */
+
+    public static void main(String[] args) {
+        SimpleInterfaceImpl simpObj = new SimpleInterfaceImpl();
+        simpObj.doSomeWork();
+        simpObj.doSomeOtherWork();
+    }
+}
