@@ -28,8 +28,8 @@ public class RegularExpressionMatching {
         boolean[][]dp=new boolean[s.length()+1][p.length()+1];
         //init row0
         dp[0][0]=true;
-        for (int i = 2; i < p.length(); i++) {
-            if (p.charAt(i)=='*'&&dp[0][i-2])dp[0][i]=true;
+        for (int i = 2; i <= p.length(); i++) {//pattern的第一个字符不能为*
+            if (p.charAt(i-1)=='*'&&dp[0][i-2])dp[0][i]=true;
         }
         //dp
         for (int i = 1; i <= s.length(); i++) {
