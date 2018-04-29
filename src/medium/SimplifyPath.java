@@ -1,9 +1,6 @@
 package medium;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * Created by rrr on 2018/4/24.
@@ -38,8 +35,28 @@ public class SimplifyPath {
         String res="";
         for (String dir :
                 strings) {
-            res = "/" + dir + res;
+            res = res +"/" + dir ;
         }
         return res.isEmpty()?"/":res;
+    }
+    //no set and stack
+    public String simplifyPath2(String path) {
+        List<String> res = new ArrayList<>();
+        String[] names = path.split("/");
+
+        for (String str : names)
+            if (str.length() != 0 && !str.equals("."))
+                if (str.equals("..")) {
+                    if (res.size() > 0)
+                        res.remove(res.size() - 1);
+                } else
+                    res.add(str);
+
+        StringBuilder sb = new StringBuilder();
+
+        for (String str : res)
+            sb.append("/").append(str);
+
+        return res.size() == 0 ? "/" : sb.toString();
     }
 }
